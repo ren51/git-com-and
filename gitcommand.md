@@ -19,4 +19,6 @@ git push でGithubにプッシュされます<br>
 Githubで確認してみる<br>
 
 <p>
-aaa
+ちなみに<br>
+ git status をすると「git add .」でどのファイルが追加しようとしているか確認できる<br>
+  
